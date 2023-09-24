@@ -21,6 +21,7 @@ author: Jón Björn Salenger
 
 navbar-links:
   About Me: "aboutme"
+  Climate Modeling Curriculum: "climatemodelingclass"
   # Resources:
     # - Beautiful Jekyll: "https://beautifuljekyll.com"
     # - Learn markdown: "https://www.markdowntutorial.com/"
