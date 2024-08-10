@@ -9,6 +9,6 @@ I have written two papers.
 - [The Structure and Function of Earth Models of Intermediate Complexity (EMICs)](https://drive.google.com/file/d/1dv0wG6LcJS4fz67RmggE3iOoO0hUf88E/view?usp=sharing)
   
 
-If you want to contact me please feel free to do so at: jbsalenger@mcdonogh.org
+If you want to contact me please feel free to do so at: jonbjorn@sas.upenn.edu
 
 
