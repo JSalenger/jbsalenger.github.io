@@ -4,6 +4,8 @@ title: About me
 subtitle: Research and Contact
 ---
 
+I am currently working on [ollyvine](ollyvine.com). 
+
 I have written two papers.
 - [DeepCheat: A Convolutional, Adaptive, and Generalizable Video Game Anti-Cheat](https://github.com/JSalenger/jbsalenger.github.io/blob/master/assets/objects/SalengerJon_paper.pdf)
 - [The Structure and Function of Earth Models of Intermediate Complexity (EMICs)](https://github.com/JSalenger/jbsalenger.github.io/blob/master/assets/objects/Composition-and-Structure-EMICS.pdf)
